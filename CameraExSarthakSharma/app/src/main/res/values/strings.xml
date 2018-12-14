@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Camera Sample</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">The Camera</string>
+    <string name="page2_title">Page 2 Title</string>
+    <string name="first_name">First Name</string>
+    <string name="btn_continue">Continue</string>
+
+</resources>

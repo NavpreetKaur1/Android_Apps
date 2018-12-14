@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+#Fri Oct 05 10:19:12 EDT 2018
+=======
+#Fri Oct 05 07:44:03 EDT 2018
+base.0=C\:\\Users\\Sarthak\\Desktop\\FragmentCommunicate_Sarthak_Sharma\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
+>>>>>>> 2ca01d78a94268df08b0a989792d31ed65a09553

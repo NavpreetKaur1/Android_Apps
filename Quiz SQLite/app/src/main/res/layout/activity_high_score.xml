@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_bright"
+    android:backgroundTint="@android:color/holo_blue_bright"
+    tools:context="com.sample.multiplechoicequiz.HighScoreActivity"
+    tools:layout_editor_absoluteY="81dp">
+
+    <TextView
+        android:id="@+id/high_score_title"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="36dp"
+        android:text="@string/high_score_title"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/high_score_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:text="@string/high_score"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="@+id/high_score_title"
+        app:layout_constraintTop_toBottomOf="@+id/high_score_title" />
+
+    <TextView
+        android:id="@+id/high_score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="11dp"
+        android:text="0"
+        android:textSize="18sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/high_score_label"
+        app:layout_constraintStart_toEndOf="@+id/high_score_title" />
+
+
+    <TextView
+        android:id="@+id/current_score_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="17dp"
+        android:text="@string/current_score"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="@+id/high_score_label"
+        app:layout_constraintTop_toBottomOf="@+id/high_score_label" />
+
+    <TextView
+        android:id="@+id/current_score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="3dp"
+        android:layout_marginTop="17dp"
+        android:text="0"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="@+id/high_score_label"
+        app:layout_constraintTop_toBottomOf="@+id/high_score_label" />
+
+    <TextView
+        android:id="@+id/congratulations"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="44dp"
+        android:text="@string/congratulations"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="@+id/current_score_label"
+        app:layout_constraintTop_toBottomOf="@+id/current_score_label" />
+
+    <Button
+        android:id="@+id/restart_button"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:layout_marginBottom="72dp"
+        android:layout_marginEnd="67dp"
+        android:layout_marginStart="67dp"
+        android:background="@android:color/holo_purple"
+        android:text="@string/restart_button"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

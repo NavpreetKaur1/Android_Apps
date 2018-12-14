@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name"> Android Quiz</string>
+    <string name="prefs_key">android_quiz_prefs</string>
+
+    <string name="high_score_pref">high_score</string>
+    <string name="high_score_title">High Score Ranking</string>
+    <string name="high_score">Current High Score:</string>
+    <string name="current_score">Your Score:</string>
+    <string name="congratulations">New High Score!</string>
+
+    <string name="restart_button">Play Again</string>
+</resources>

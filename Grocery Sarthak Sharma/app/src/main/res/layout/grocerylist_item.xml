@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/cv"
+            android:layout_width="match_parent"
+            android:layout_height="152dp"
+            android:elevation="400dp"
+            app:cardBackgroundColor="@color/colorPrimary"
+            app:cardCornerRadius="40dp"
+            app:cardElevation="17dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="148dp"
+                android:padding="16dp">
+
+                <ImageView
+                    android:id="@+id/vegetable_photo"
+                    android:layout_width="116dp"
+                    android:layout_height="41dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginEnd="-81dp"
+                    android:layout_toStartOf="@+id/vegetable_price" />
+
+                <TextView
+                    android:id="@+id/vegetable_name"
+                    android:layout_width="65dp"
+                    android:layout_height="26dp"
+                    android:layout_alignTop="@+id/vegetable_photo"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginEnd="21dp" />
+
+                <TextView
+                    android:id="@+id/vegetable_price"
+                    android:layout_width="54dp"
+                    android:layout_height="35dp"
+                    android:layout_below="@+id/vegetable_quantity"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginStart="36dp"
+                    android:layout_marginTop="-26dp"
+                    android:text="$" />
+
+                <TextView
+                    android:id="@+id/vegetable_quantity"
+                    android:layout_width="62dp"
+                    android:layout_height="31dp"
+                    android:layout_below="@+id/vegetable_weight"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginStart="124dp" />
+
+                <TextView
+                    android:id="@+id/vegetable_weight"
+                    android:layout_width="70dp"
+                    android:layout_height="37dp"
+                    android:layout_alignEnd="@+id/vegetable_name"
+                    android:layout_centerVertical="true" />
+
+            </RelativeLayout>
+        </android.support.v7.widget.CardView>
+    </LinearLayout>

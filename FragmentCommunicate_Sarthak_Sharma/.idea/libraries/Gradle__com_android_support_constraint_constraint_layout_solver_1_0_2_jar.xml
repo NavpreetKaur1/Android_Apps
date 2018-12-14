@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+<component name="libraryTable">
+  <library name="Gradle: com.android.support.constraint:constraint-layout-solver:1.0.2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+=======
+<component name="libraryTable">
+  <library name="Gradle: com.android.support.constraint:constraint-layout-solver:1.0.2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+>>>>>>> 2ca01d78a94268df08b0a989792d31ed65a09553
+</component>

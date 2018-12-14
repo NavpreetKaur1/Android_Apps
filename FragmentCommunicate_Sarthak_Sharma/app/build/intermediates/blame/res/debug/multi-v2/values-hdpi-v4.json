@@ -1,0 +1,27 @@
+{
+    "logs": [
+        {
+<<<<<<< HEAD
+            "outputFile": "/Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/xcode/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/4b1edc3958a8d3abc53d81f0cacbd15a/res/values-hdpi-v4/values-hdpi-v4.xml",
+=======
+            "outputFile": "C:\\Users\\Sarthak\\Desktop\\FragmentCommunicate_Sarthak_Sharma\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sarthak\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\0795a7d03a879451375619a8a9c41b47\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+>>>>>>> 2ca01d78a94268df08b0a989792d31ed65a09553
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

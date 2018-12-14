@@ -1,0 +1,64 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:scrollbars="vertical"
+    android:layout_width="fill_parent"
+    android:isScrollContainer="true"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+	    android:orientation="vertical"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_margin="@dimen/activity_margin">
+    
+    	<TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/title"
+	        android:textSize="@dimen/heading1"
+	        android:textColor="@color/heading1"
+	        android:paddingBottom="@dimen/seperator" />
+    	
+    	<RelativeLayout
+    	    android:layout_width="fill_parent"
+    	    android:layout_height="wrap_content">
+    	     <ImageButton 
+    	       	android:id="@+id/ImageButton_Picture"
+    	       	android:layout_width="wrap_content"
+    	       	android:layout_height="wrap_content"
+    	       	android:src="@drawable/avatar"
+    	       	android:adjustViewBounds="true"
+    	       	android:scaleType="fitXY"
+				 android:layout_alignParentLeft="true"
+				 android:layout_alignParentStart="true"
+				 android:layout_alignParentTop="true" />
+    	      
+    	    <TextView
+    	        android:id="@+id/TextView_FirstName"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+				android:text="@string/first_name"
+		        android:textSize="@dimen/heading2"
+		        android:textColor="@color/heading2"
+				android:layout_alignParentTop="true"
+				android:layout_toRightOf="@+id/ImageButton_Picture"
+				android:layout_toEndOf="@+id/ImageButton_Picture" />
+	    
+		    <EditText 
+		        android:id="@+id/EditText_FirstName"
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content"
+		        android:layout_toRightOf="@id/ImageButton_Picture"
+		        android:layout_below="@id/TextView_FirstName"
+		        android:maxLines="1"
+		        android:inputType="textPersonName"/>
+
+    	</RelativeLayout>
+	    
+	    <Button
+		    android:id="@+id/Button_Submit"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:text="@string/btn_continue"/>
+    </LinearLayout>
+</ScrollView>

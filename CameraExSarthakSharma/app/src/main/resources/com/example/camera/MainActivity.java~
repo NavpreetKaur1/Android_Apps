@@ -1,0 +1,20 @@
+package com.example.camera;
+
+import java.io.File;
+
+import android.os.Bundle;
+
+public class MainActivity extends BaseActivity {
+	private static final int TAKE_AVATAR_CAMERA_REQUEST = 1;
+	/* The keys for all the settings shared preferences */
+	public static final String SETTINGS_PREFS = "SETTINGS PREFS";
+	public static final String SETTINGS_PREFS_FIRST_NAME = "FIRST NAME";
+	public static final String SETTINGS_PREFS_AVATAR = "AVATAR";
+
+	
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_main);
+
+	}
+}

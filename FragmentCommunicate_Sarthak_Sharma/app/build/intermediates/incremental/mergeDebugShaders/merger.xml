@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/shaders"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/debug/shaders"/></dataSet></merger>
+=======
+<merger version="3"><dataSet config="main"><source path="C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\debug\shaders"/></dataSet></merger>
+>>>>>>> 2ca01d78a94268df08b0a989792d31ed65a09553

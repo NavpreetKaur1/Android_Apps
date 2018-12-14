@@ -1,0 +1,279 @@
+-- Merging decision tree log ---
+manifest
+<<<<<<< HEAD
+ADDED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:18:1-37:12
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/4b1edc3958a8d3abc53d81f0cacbd15a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/1570ad5db308aa53565a9b0d1a6148eb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/476dace4a1404e4de7e786cadc926dc9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/xcode/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a386e70618b78a739bc9d10925f3649a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/102c11086feb51c237f550ef4b52ceea/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/8009c83a12b5384f3a8b5d13593a8019/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/d62bc3650420562c839b2ab116406872/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/10c88add86f77b394c95a16d4851ea38/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/a99357a6fc54ca830200f373fef8e110/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/b2511231294e7c274ca26f147484da31/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:18:1-37:12
+	package
+		ADDED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:19:5-54
+		INJECTED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:18:1-37:12
+		INJECTED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:18:1-37:12
+		INJECTED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:18:11-69
+application
+ADDED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:21:5-35:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/4b1edc3958a8d3abc53d81f0cacbd15a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/4b1edc3958a8d3abc53d81f0cacbd15a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/1570ad5db308aa53565a9b0d1a6148eb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/1570ad5db308aa53565a9b0d1a6148eb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/476dace4a1404e4de7e786cadc926dc9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/476dace4a1404e4de7e786cadc926dc9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/xcode/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a386e70618b78a739bc9d10925f3649a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/xcode/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a386e70618b78a739bc9d10925f3649a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/102c11086feb51c237f550ef4b52ceea/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/102c11086feb51c237f550ef4b52ceea/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/8009c83a12b5384f3a8b5d13593a8019/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/8009c83a12b5384f3a8b5d13593a8019/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/d62bc3650420562c839b2ab116406872/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/d62bc3650420562c839b2ab116406872/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/10c88add86f77b394c95a16d4851ea38/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/10c88add86f77b394c95a16d4851ea38/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/a99357a6fc54ca830200f373fef8e110/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/a99357a6fc54ca830200f373fef8e110/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/b2511231294e7c274ca26f147484da31/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/b2511231294e7c274ca26f147484da31/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:27:9-40
+activity#com.example.android.fragmentcommunicate.MainActivity
+ADDED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:28:19-86
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml
+INJECTED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/4b1edc3958a8d3abc53d81f0cacbd15a/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/4b1edc3958a8d3abc53d81f0cacbd15a/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/1570ad5db308aa53565a9b0d1a6148eb/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/1570ad5db308aa53565a9b0d1a6148eb/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/476dace4a1404e4de7e786cadc926dc9/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/476dace4a1404e4de7e786cadc926dc9/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/xcode/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a386e70618b78a739bc9d10925f3649a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/xcode/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a386e70618b78a739bc9d10925f3649a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/102c11086feb51c237f550ef4b52ceea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/102c11086feb51c237f550ef4b52ceea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/8009c83a12b5384f3a8b5d13593a8019/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/8009c83a12b5384f3a8b5d13593a8019/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/d62bc3650420562c839b2ab116406872/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/d62bc3650420562c839b2ab116406872/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/10c88add86f77b394c95a16d4851ea38/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/10c88add86f77b394c95a16d4851ea38/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/a99357a6fc54ca830200f373fef8e110/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/a99357a6fc54ca830200f373fef8e110/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/b2511231294e7c274ca26f147484da31/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/b2511231294e7c274ca26f147484da31/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml
+INJECTED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/4b1edc3958a8d3abc53d81f0cacbd15a/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/4b1edc3958a8d3abc53d81f0cacbd15a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/1570ad5db308aa53565a9b0d1a6148eb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/1570ad5db308aa53565a9b0d1a6148eb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/476dace4a1404e4de7e786cadc926dc9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/476dace4a1404e4de7e786cadc926dc9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/102c11086feb51c237f550ef4b52ceea/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/102c11086feb51c237f550ef4b52ceea/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/8009c83a12b5384f3a8b5d13593a8019/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/8009c83a12b5384f3a8b5d13593a8019/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/d62bc3650420562c839b2ab116406872/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/d62bc3650420562c839b2ab116406872/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/10c88add86f77b394c95a16d4851ea38/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/10c88add86f77b394c95a16d4851ea38/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/a99357a6fc54ca830200f373fef8e110/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/a99357a6fc54ca830200f373fef8e110/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/b2511231294e7c274ca26f147484da31/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/b2511231294e7c274ca26f147484da31/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/4b1edc3958a8d3abc53d81f0cacbd15a/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.1] /Users/xcode/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/4b1edc3958a8d3abc53d81f0cacbd15a/AndroidManifest.xml:27:13-51
+=======
+ADDED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:18:1-37:12
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\0795a7d03a879451375619a8a9c41b47\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\fd071aa1c01722b7641a66d615949b46\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\e77ac0783d45f1588ce83a1076734566\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\130666c693780264f55ed72a389f0d44\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\1fb86c6b39c8706ce66b32420da4fbfe\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\e12ce3164431583197910a346e4eaec6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\6bf67cb12e68b45fba3b19c093f4d733\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\9cc91fe5d68307b01d0562b9998c62df\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\ca2bdc6cf5a519c5e3f2b08e049fdf6a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\9fd4f97ee4c77c3850729a120f8e8bcb\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:18:1-37:12
+	package
+		ADDED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:19:5-54
+		INJECTED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:18:1-37:12
+		INJECTED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:18:1-37:12
+		INJECTED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:21:5-35:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\0795a7d03a879451375619a8a9c41b47\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\0795a7d03a879451375619a8a9c41b47\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\fd071aa1c01722b7641a66d615949b46\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\fd071aa1c01722b7641a66d615949b46\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\e77ac0783d45f1588ce83a1076734566\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\e77ac0783d45f1588ce83a1076734566\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\130666c693780264f55ed72a389f0d44\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\130666c693780264f55ed72a389f0d44\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\1fb86c6b39c8706ce66b32420da4fbfe\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\1fb86c6b39c8706ce66b32420da4fbfe\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\e12ce3164431583197910a346e4eaec6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\e12ce3164431583197910a346e4eaec6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\6bf67cb12e68b45fba3b19c093f4d733\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\6bf67cb12e68b45fba3b19c093f4d733\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\9cc91fe5d68307b01d0562b9998c62df\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\9cc91fe5d68307b01d0562b9998c62df\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\ca2bdc6cf5a519c5e3f2b08e049fdf6a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\ca2bdc6cf5a519c5e3f2b08e049fdf6a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\9fd4f97ee4c77c3850729a120f8e8bcb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\9fd4f97ee4c77c3850729a120f8e8bcb\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.android.fragmentcommunicate.MainActivity
+ADDED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:28:19-86
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\0795a7d03a879451375619a8a9c41b47\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\0795a7d03a879451375619a8a9c41b47\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\fd071aa1c01722b7641a66d615949b46\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\fd071aa1c01722b7641a66d615949b46\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\e77ac0783d45f1588ce83a1076734566\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\e77ac0783d45f1588ce83a1076734566\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\130666c693780264f55ed72a389f0d44\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\130666c693780264f55ed72a389f0d44\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\1fb86c6b39c8706ce66b32420da4fbfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\1fb86c6b39c8706ce66b32420da4fbfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\e12ce3164431583197910a346e4eaec6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\e12ce3164431583197910a346e4eaec6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\6bf67cb12e68b45fba3b19c093f4d733\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\6bf67cb12e68b45fba3b19c093f4d733\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\9cc91fe5d68307b01d0562b9998c62df\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\9cc91fe5d68307b01d0562b9998c62df\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\ca2bdc6cf5a519c5e3f2b08e049fdf6a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\ca2bdc6cf5a519c5e3f2b08e049fdf6a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\9fd4f97ee4c77c3850729a120f8e8bcb\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\9fd4f97ee4c77c3850729a120f8e8bcb\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\0795a7d03a879451375619a8a9c41b47\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sarthak\Desktop\FragmentCommunicate_Sarthak_Sharma\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\0795a7d03a879451375619a8a9c41b47\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\fd071aa1c01722b7641a66d615949b46\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\fd071aa1c01722b7641a66d615949b46\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\e77ac0783d45f1588ce83a1076734566\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\e77ac0783d45f1588ce83a1076734566\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\1fb86c6b39c8706ce66b32420da4fbfe\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\1fb86c6b39c8706ce66b32420da4fbfe\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\e12ce3164431583197910a346e4eaec6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\e12ce3164431583197910a346e4eaec6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\6bf67cb12e68b45fba3b19c093f4d733\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\6bf67cb12e68b45fba3b19c093f4d733\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\9cc91fe5d68307b01d0562b9998c62df\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\9cc91fe5d68307b01d0562b9998c62df\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\ca2bdc6cf5a519c5e3f2b08e049fdf6a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\ca2bdc6cf5a519c5e3f2b08e049fdf6a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\9fd4f97ee4c77c3850729a120f8e8bcb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\9fd4f97ee4c77c3850729a120f8e8bcb\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\0795a7d03a879451375619a8a9c41b47\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Sarthak\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\0795a7d03a879451375619a8a9c41b47\AndroidManifest.xml:27:13-51
+>>>>>>> 2ca01d78a94268df08b0a989792d31ed65a09553

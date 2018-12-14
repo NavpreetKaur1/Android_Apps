@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Starbucks</string>
+    <string name="starbuzz_logo">Starbucks logo</string>
+    <string-array name="options">
+        <item>Hot Drinks</item>
+        <item>Cold Drinks</item>
+        <item>Food</item>
+    </string-array>
+</resources>

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+<<<<<<< HEAD
+            "outputFile": "/Users/xcode/Desktop/FragmentCommunicate_Sarthak_Sharma/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/xcode/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/4b1edc3958a8d3abc53d81f0cacbd15a/res/values-land/values-land.xml",
+=======
+            "outputFile": "C:\\Users\\Sarthak\\Desktop\\FragmentCommunicate_Sarthak_Sharma\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sarthak\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\0795a7d03a879451375619a8a9c41b47\\res\\values-land\\values-land.xml",
+>>>>>>> 2ca01d78a94268df08b0a989792d31ed65a09553
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        }
+    ]
+}
